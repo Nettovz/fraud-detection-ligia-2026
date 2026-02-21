@@ -44,16 +44,20 @@ Ambos os modelos apresentaram ROC-AUC próximo de 97%, com o LightGBM apresentan
 
 ---
 
-## Estrutura do Repositório
-
-fraud-detection-ligia-2026/
+fraud-detection-liga-2026/
 │
-├── fraud_detection.ipynb
-├── Fraud_Detection.pdf
+├── notebook/
+│   └── fraud_detection.ipynb
+│
+├── submissions/
+│   ├── submission_LightGBM.csv
+│   └── submission_logisticregression.csv
+│
+├── docs/
+│   └── Fraud_Detection.pdf
+│
 ├── requirements.txt
-└── submission_*.csv
-
-
+└── README.md
 ---
 
 ## Como Executar
