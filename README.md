@@ -1,7 +1,6 @@
 # Detecção de Fraudes em Transações Financeiras
 
 Autor: Deoclécio Ivo de Melo Netto  
-Processo Seletivo LIGIA – 2026  
 Trilha: Aprendizado de Máquina  
 
 ---
